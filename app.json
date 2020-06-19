@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "window-fan-smart-home-app1",
-    "slug": "window-fan-smart-home-app1",
+    "name": "window-fan-smart-home-app",
+    "slug": "window-fan-smart-home-app",
     "platforms": [
       "ios",
       "android",
